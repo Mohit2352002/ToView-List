@@ -38,6 +38,10 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
 
+## ScreenShots
+
+![Home-1](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/Home.png)
+![Home-Light-1](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/HomeLight.png)
 
 ## Usage
 
