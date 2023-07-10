@@ -1,4 +1,4 @@
-# ToWatchList | MERN
+# ToView List | MERN
 
 A MERN stack app to keep track of online stuff, which you may want to view later.
 
