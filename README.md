@@ -40,8 +40,14 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 
 ## ScreenShots
 
-![Home-1](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/Home.png)
-![Home-Light-1](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/HomeLight.png)
+![Home](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/Home.png)
+![HomeLight](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/HomeLight.png)
+![Login](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/Login.png)
+![LoginLight](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/LoginLight.png)
+![NewEntry](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/NewEntry.png)
+![RegisterLight](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/RegisterLight.png)
+![Search](https://github.com/Mohit2352002/ToView-List/blob/main/client/ScreenShots/Search.png)
+
 
 ## Usage
 
