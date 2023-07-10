@@ -160,12 +160,12 @@ const NavBar = () => {
                 <Typography variant="caption" className={classes.madeBy}>
                   Made with <FavoriteIcon style={{ fontSize: 11 }} /> by{' '}
                   <Link
-                    href={'https://github.com/amand33p'}
+                    href={'https://github.com/Mohit2352002'}
                     color="inherit"
                     target="_blank"
                     rel="noopener"
                   >
-                    amand33p
+                    Mohit Godara
                   </Link>
                 </Typography>
               </div>

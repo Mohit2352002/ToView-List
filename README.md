@@ -1,10 +1,6 @@
 # ToViewList | MERN
-mohit
+
 A MERN stack app to keep track of online stuff, which you may want to view later.
-
-## Demo
-
-[Deployed on Netlify (front-end) & Heroku (back-end)](https://toviewlist.netlify.app)
 
 ## Built using
 
@@ -42,17 +38,6 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
 
-## Screenshots
-
-#### Desktop
-
-![Desktop-1](https://github.com/amand33p/to-view-list-mern/blob/master/screenshots/desktop-1.jpg)
-![Desktop-2](https://github.com/amand33p/to-view-list-mern/blob/master/screenshots/desktop-2.jpg)
-
-#### Mobile
-
-![Mobile-1](https://github.com/amand33p/to-view-list-mern/blob/master/screenshots/mobile-1.jpg)
-![Mobile-2](https://github.com/amand33p/to-view-list-mern/blob/master/screenshots/mobile-2.jpg)
 
 ## Usage
 
