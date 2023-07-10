@@ -1,6 +1,5 @@
-# ToViewList | MERN
-
-A MERN stack app to keep track of online stuff, which you may want to view later.
+# ToWatch List | MERN
+A MERN stack app to keep track of online stuff, which you may want to watch later.
 
 ## Built using
 
@@ -37,7 +36,6 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - Toast notifications for actions such as adding new entry, or 'starring' it etc.
 - Dark mode toggle w/ local storage save
 - Responsive UI for all screens
-
 
 ## Usage
 
